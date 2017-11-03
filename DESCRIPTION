@@ -1,0 +1,10 @@
+Package: traceRy
+Title: tracery implementation in R
+Version: 0.1
+Authors@R: person("David", "Miller", email = "dave@ninepointeightone.net", role = c("aut", "cre"))
+Description: Implements the tracery text-expansion library in R. Load some JSON and then generate some text from it.
+Depends: R (>= 3.4.1)
+License: GPL(>=2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
