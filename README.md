@@ -1,6 +1,6 @@
 # `traceRy` a tracery implementation in R
 
-Tracery is a neat way of generating text from JSON files. I didn't write it but you can find out more [here](https://www.github.com/galaxykate/tracery). You can use tracery to make bots with [cheapbotsdoenquick](http://cheapbotsdoenquick.com). I do that a lot, so I thought it would be nice to have something written in R that I can use to check that my bots work (also because I'm goofy and I don't understand javascript).
+Tracery is a neat way of generating text from JSON files. I didn't write it but you can find out more [here](https://www.github.com/galaxykate/tracery). You can use tracery to make bots with [cheapbotsdonequick](http://cheapbotsdonequick.com). I do that a lot, so I thought it would be nice to have something written in R that I can use to check that my bots work (also because I'm goofy and I don't understand javascript).
 
 ## A quick example
 
@@ -33,7 +33,7 @@ make_tracery(jason)
 ```
 
 ```
-## [1] "Today I saw a swan"
+## [1] "Today I saw a mallard"
 ```
 
 Okay, well that was cute, but what about something more fancy?
